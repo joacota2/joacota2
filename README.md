@@ -10,7 +10,7 @@ Some things about me :<br/>
 :two: Specialized on DATA fields.<br/>
 :three: Proficient C++, HTML, CSS and Python.<br/> 
 :four: Have experience on many areas of programming like Web Development with Django and advanced analytics techniques with Pandas.<br/>
-:five: I’m currently not working.
+:five: I’m currently not working.<br>
 :six: Looking for an enthusiastic experience to boost my DATA faculties.
 :seven: How to reach me : Mail me at ![](https://chxo.com/labelgen/labelgen.php?textval=+gomezjoaquin83%40gmail.com&font=ARIAL.TTF&size=12&bgcolor=%23ffffff&textcolor=%23000000&submit=create+image)<br/>
 :eight: Ask me anything related to programming : <a href="https://github.com/BaseMax/BaseMax/issues/new?assignees=&labels=question&template=custom.md&title=Question%3A+%5BYour-Title%5D">here</a><br/> 
