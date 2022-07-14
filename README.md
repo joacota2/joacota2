@@ -30,6 +30,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=joacota2&show_icons=true&locale=en" alt="joacota2">
 
 ------
-
+Credit: basemax
 
 
