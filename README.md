@@ -14,7 +14,7 @@ Some things about me :<br/>
 :six: Looking for an enthusiastic experience to boost my DATA faculties.<br>
 :seven: How to reach me : Mail me at ![](https://chxo.com/labelgen/labelgen.php?textval=+gomezjoaquin83%gmail.com&font=ARIAL.TTF&size=12&bgcolor=%23ffffff&textcolor=%23000000&submit=create+image)<br/>
 :eight: Ask me anything related to programming : <a href="https://github.com/joacota2/joacota2/issues/new?assignees=&labels=question&template=custom.md&title=Question%3A+%5BYour-Title%5D">here</a><br/> 
-:Have been developing all kinds of sofware: Videogames, Bots, Websites, Predictive Models.
+:nine: Have been developing all kinds of sofware: Videogames, Bots, Websites, Predictive Models.
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/joacota2?tab=repositories)
 <a href="https://github.com/joacota2?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=joacota2&column=8&margin-w=15&margin-h=15" alt="joacota2"></a> 
