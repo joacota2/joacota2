@@ -9,8 +9,8 @@ Some things about me :<br/>
 :one: Python Developer!<br/>
 :two: Specialized on DATA fields.<br/>
 :three: Proficient C++, HTML, CSS and Python.<br/> 
-:four: Have experience on many areas of programming like Web Development with Django and advanced analytics techniques with Pandas.<br/>
-:five: I’m currently not working.<br>
+:four: Have experience on many areas of programming like Web Development, advanced analytics, Data Engineering and Machine Learning.<br/>
+:five: I’m currently working on JYS Development.<br>
 :six: Looking for an enthusiastic experience to boost my DATA faculties.<br>
 :seven: How to reach me : Mail me at gomezjoaquin83@gmail.com <br>
 :eight: Ask me anything related to programming : <a href="https://github.com/joacota2/joacota2/issues/new?assignees=&labels=question&template=custom.md&title=Question%3A+%5BYour-Title%5D">here</a><br/> 
