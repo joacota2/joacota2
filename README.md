@@ -6,15 +6,15 @@ Wanna nominate me as a <a href="https://stars.github.com/">GitHub Star</a> ? <a 
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 <b>Welcome !! </b><br/>
 Some things about me :<br/>
-:one: Python Developer!<br/>
-:two: Specialized on DATA fields.<br/>
+:one: Im a Data Scientist!<br/>
+:two: Specialized on LLM Development .<br/>
 :three: Proficient C++, HTML, CSS and Python.<br/> 
 :four: Have experience on many areas of programming like Web Development, advanced analytics, Data Engineering and Machine Learning.<br/>
-:five: I’m currently working on JYS Development.<br>
+:five: I’m currently working on Accenture.<br>
 :six: Looking for an enthusiastic experience to boost my DATA faculties.<br>
 :seven: How to reach me : Mail me at gomezjoaquin83@gmail.com <br>
 :eight: Ask me anything related to programming : <a href="https://github.com/joacota2/joacota2/issues/new?assignees=&labels=question&template=custom.md&title=Question%3A+%5BYour-Title%5D">here</a><br/> 
-:nine: Have been developing all kinds of sofware: Videogames, Bots, Websites, Predictive Models.
+:nine: Have been developing all kinds of sofware: Videogames, Bots, Websites, AI.
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/joacota2?tab=repositories)
 <a href="https://github.com/joacota2?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=joacota2&column=8&margin-w=15&margin-h=15" alt="joacota2"></a> 
